@@ -1,10 +1,12 @@
 # CITY BLEND
-Encontramos un Corporativo con 3 sucursal y 30 productos agrupados en 9 categorías con registro de ventas de seis meses
+Encontramos un Corporativo con 3 sucursales y 30 productos agrupados en 9 categorías con registro de ventas de seis meses
 
 
 ***
-## Destacados:
-***
+## Hallazgos Destacados:
+
+
+
 
 
 - El mes con mayor ingresos es **`JUNIO`**
@@ -12,11 +14,13 @@ Encontramos un Corporativo con 3 sucursal y 30 productos agrupados en 9 categor�
 - El producto más popular es el **Brewed Chai tea** y el menos popular es el Green beans
 
 - La Sucursal que es más rentable es la de  **Hell´s Kitchen** con su producto estrella **Barista Espresso**
+
+
   
-:warning: Aunque el **Brewed Chai** tea es el producto más vendido  no representa el mayor ingreso para la empresa, tiene mayor margen de utilidad el **Barista Expresso** debido a que acumula mayores ingresos con menor número de ventas que el producto más popular.
+:warning:  Aunque el **Brewed Chai** tea es el producto más vendido  no representa el mayor ingreso para la empresa, tiene mayor margen de utilidad el **Barista Expresso** debido a que acumula mayores ingresos con menor número de ventas que el producto más popular.
 ***
 
-## :star:  TOP 3
+##  TOP 3 :star:   Productos más vendidos
 <img width="436" alt="tablita city b" src="https://github.com/user-attachments/assets/d5b47389-ad10-4635-99dc-70b2845966c4">
 
 
