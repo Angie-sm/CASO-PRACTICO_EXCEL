@@ -23,4 +23,8 @@ Encontramos un Corporativo con 3 sucursales y 30 productos agrupados en 9 catego
 ##  TOP 3 :star:   Productos más vendidos
 <img width="436" alt="tablita city b" src="https://github.com/user-attachments/assets/d5b47389-ad10-4635-99dc-70b2845966c4">
 
+## TE COMPARTIMOS ALGUNAS GRÁFICAS
+
+<img width="1309" alt="3 GRAFICAS DE EXCEL" src="https://github.com/user-attachments/assets/10b678d2-b3aa-469e-ab01-e2a72fdfd85a" />
+
 
